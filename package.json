@@ -1,0 +1,17 @@
+{
+  "name": "employee-validation-backend",
+  "version": "1.0.0",
+  "description": "Validated crud employee login using node and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Naccarato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.4.22"
+  }
+}
